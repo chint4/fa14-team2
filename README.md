@@ -7,5 +7,5 @@ Fall 2014 Intro to git lab team 2
 * Kyle Rader
 * Sereyvathanak Khorn
 * Ryan Erps
-
+* Andy Brown
 
